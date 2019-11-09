@@ -13,7 +13,7 @@ In this repository you can find implementation of popular games in Java.
   
    [Wikipedia](https://en.wikipedia.org/wiki/Blackjack)
   
-  *Note:Here is just the core of the game the other 2 files (Player.java and Card.java) are on the BlackJack branch.*
+  *Note:Here is just the core of the game the other 2 files (Player.java and Card.java) are on the BlackJack branch.*</br>
   *Implementation*</br>
   The implementation is in Java. It is using the OOP principles. The class card is used to define an object that has the 2 attributes of a normal card and a specific attribute: 
   - number
