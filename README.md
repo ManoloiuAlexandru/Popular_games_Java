@@ -6,7 +6,6 @@ In this repository you can find implementation of popular games in Java.
   
   Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters, within a certain number of guesses. [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game))
 
-  *Note:Here is just the core of the game the other 2 files (Player.java and hungman.java) are on the hungman branch.*</br>
   *Implementation*</br>
   The implementation is in Java. It is using the OOP principles. The class hungman is used to define the word that the player has to guess. In order to get the word that the player has to guess the program uses the Python library "random" and takes a word from the list_of_words, which is a list. The hungman class has another static variabile and that is "full_word" which is used to see if the player has found the word or not, the initial value of this variable is 0, the chances to 1 when to player finds the word. 
   
